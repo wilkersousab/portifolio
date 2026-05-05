@@ -2,7 +2,7 @@ Wilker Henrique — Portfólio
 Portfólio pessoal desenvolvido com HTML e CSS puro, sem frameworks ou dependências externas.
 
 🔗 Acesse
-wilkersousab.github.io/portfolio
+https://wilkersousab.github.io/portifolio/
 
 🛠️ Tecnologias
 HTML5 semântico
